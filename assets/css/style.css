@@ -35,3 +35,8 @@ main {
     margin: auto;
     text-align: center
 }
+
+.question-answers:hover {
+    border: 1px solid black;
+    background: lightgray;
+}
