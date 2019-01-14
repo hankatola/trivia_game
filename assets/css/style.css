@@ -1,0 +1,37 @@
+body {
+    background-image: url('../images/library.jpg');
+}
+
+button {
+    width: 120px;
+    height: 40px;
+    text-align: center;
+    margin: auto;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+header {
+    padding: 20px;
+    padding-bottom: 20px;
+}
+
+main {
+    background-color: white;
+    margin-top: 50px;
+    height: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+#timer {
+    margin-bottom: 20px;
+}
+
+#start {
+    margin: auto;
+    text-align: center
+}
